@@ -1,2 +1,2 @@
 # S1
-Sentient S1 robot
+S1 robot system
